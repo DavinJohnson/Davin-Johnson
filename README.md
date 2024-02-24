@@ -1,6 +1,6 @@
 # Davin-Johnson
 # 💫 About Me:
-I'm currently working on building an active directory home lab. 
+I'm currently working on building an active directory home lab and penetration testing. 
 I'm interested in furthering my knowledge in Linux & Powershell.
 
 
